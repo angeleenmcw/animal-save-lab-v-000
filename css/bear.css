@@ -15,16 +15,21 @@ html {
 }
 }
 
-@media only screen and (min-width: )
+@media only screen and (min-width: 100%), (max-width: 50%) {
+  .ostrich {
+    top: 100px;
+  }
+}
 
 @media only screen and (min-width: 406px) and (max-width: 1170px) {
   .monkey {
     
   }
 }
+
 @media only screen and (min-width: 642px) and (max-width: 1090
 px) {
   .dolphin {
     
   }
-  
+  }
