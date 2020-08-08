@@ -9,7 +9,7 @@ html {
 }
 
 @media only screen and (max-width: 1196px) {
-  .cliff {
+  #bear {
   position: fixed;
   left: 396px;
 }
